@@ -2,10 +2,6 @@
 
 Filter directories/files by path length and/or file size
 
-## Installation
-
-+ Simply execute the executable at Debug/Release folder
-
 
 ## Project Info
 
