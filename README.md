@@ -1,6 +1,6 @@
 # Filter Paths
 
-![status](https://img.shields.io/badge/Status-ok-green.svg)
+![status](https://img.shields.io/badge/Status-done-green.svg)
 ![version](https://img.shields.io/badge/Version-v1.18.1119-orange.svg)
 ![license](https://img.shields.io/badge/License-Beer--ware-brightgreen.svg)
 ![csharp](https://img.shields.io/badge/CSharp-7.3-blue.svg)
