@@ -33,7 +33,7 @@ Filter directories/files by path length and/or file size
 
 ## Author
 
-+ Haennim Park ([haennim.park@hotmail.com](haennim.park@hotmail.com))
++ [Haennim Park](https://github.com/mohenjo)
 
 
 ## License
